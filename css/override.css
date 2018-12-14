@@ -1,16 +1,1 @@
-/* override css styles of the main theme here */
-body {
-  background-color: #444;
-}
-
-p, h1, h2, h3, h4, h5, h6, span, div.container div.content div.page-heading, div.content div.name {
-  color: darkkhaki;
-}
-
-h3.self-intro {
-	color: #999 !important;
-}
-
-img.icon {
-	color: #fff !important;
-}
+body{background-color:#fff}a,a > span{color:#5e2f0c}a:hover{color:#a9a34c}p,h1,h2,h3,h4,h5,h6,span,div.container div.content div.page-heading,div.content div.name{color:#0d3c5e}
