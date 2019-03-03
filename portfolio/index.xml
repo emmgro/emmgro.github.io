@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Emmanuelle Guerrero</title>
+    <link>http://emmgro.github.io/portfolio/</link>
+    <description>Recent content in Portfolio on Emmanuelle Guerrero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Dec 2018 06:42:21 -0700</lastBuildDate>
+    
+	<atom:link href="http://emmgro.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tuukuul</title>
+      <link>http://emmgro.github.io/portfolio/projects/tuukuul/</link>
+      <pubDate>Mon, 17 Dec 2018 21:47:45 -0700</pubDate>
+      
+      <guid>http://emmgro.github.io/portfolio/projects/tuukuul/</guid>
+      <description> Chat  Add  Secciones  Tareas  Nueva Tarea Detalle Tarea </description>
+    </item>
+    
+    <item>
+      <title>Soluciones Verdes - Online Courses Website</title>
+      <link>http://emmgro.github.io/portfolio/projects/svweb/</link>
+      <pubDate>Mon, 17 Dec 2018 20:40:12 -0700</pubDate>
+      
+      <guid>http://emmgro.github.io/portfolio/projects/svweb/</guid>
+      <description>Index Login Registro (red social) Registro email Info usuario Email usuario Panel Usuario Detalle de curso Detalle de capitulo Compra de curso Detalle de curso comprado Detalle de pago Detalle de publicacion en curso Lista de cursos Lista de cursos comprados Lista de pagos </description>
+    </item>
+    
+  </channel>
+</rss>
