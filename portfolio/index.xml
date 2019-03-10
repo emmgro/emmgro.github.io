@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio on Emmanuelle Guerrero - Web Developer, Photographer</title>
+    <title>My Portfolio on Emmanuelle Guerrero - Web Developer, Photographer</title>
     <link>/portfolio/</link>
-    <description>Recent content in Portfolio on Emmanuelle Guerrero - Web Developer, Photographer</description>
+    <description>Recent content in My Portfolio on Emmanuelle Guerrero - Web Developer, Photographer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Dec 2018 06:42:21 -0700</lastBuildDate>
@@ -17,7 +17,13 @@
       <pubDate>Mon, 17 Dec 2018 21:47:45 -0700</pubDate>
       
       <guid>/portfolio/projects/tuukuul/</guid>
-      <description> Chat  Add  Secciones  Tareas  Nueva Tarea Detalle Tarea </description>
+      <description>   Chat
+      Secciones
+      Tareas
+      Add
+      Detalle tarea
+      Nueva tarea
+                             </description>
     </item>
     
     <item>
@@ -26,7 +32,17 @@
       <pubDate>Mon, 17 Dec 2018 20:40:12 -0700</pubDate>
       
       <guid>/portfolio/projects/svweb/</guid>
-      <description>Index Login Registro (red social) Registro email Info usuario Email usuario Panel Usuario Detalle de curso Detalle de capitulo Compra de curso Detalle de curso comprado Detalle de pago Detalle de publicacion en curso Lista de cursos Lista de cursos comprados Lista de pagos </description>
+      <description>Comprarcurso
+      Cursocomprado
+      Cursoscomprados
+      Detallecurso
+      Detallescapitulo
+      Detallesdepago
+      Emailusuario
+      Index
+      Infousuario
+      Listacursos
+      Login</description>
     </item>
     
   </channel>
