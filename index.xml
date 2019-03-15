@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emmanuelle Guerrero - Web Developer, Photographer</title>
-    <link>/</link>
-    <description>Recent content on Emmanuelle Guerrero - Web Developer, Photographer</description>
+    <title>Emmanuelle Guerrero | Web Developer, Photographer</title>
+    <link>http://emmgro.github.io/</link>
+    <description>Recent content on Emmanuelle Guerrero | Web Developer, Photographer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Dec 2018 21:47:45 -0700</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://emmgro.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tuukuul</title>
-      <link>/portfolio/projects/tuukuul/</link>
+      <link>http://emmgro.github.io/portfolio/projects/tuukuul/</link>
       <pubDate>Mon, 17 Dec 2018 21:47:45 -0700</pubDate>
       
-      <guid>/portfolio/projects/tuukuul/</guid>
+      <guid>http://emmgro.github.io/portfolio/projects/tuukuul/</guid>
       <description>   Chat
       Secciones
       Tareas
@@ -28,10 +28,10 @@
     
     <item>
       <title>Soluciones Verdes - Online Courses Website</title>
-      <link>/portfolio/projects/svweb/</link>
+      <link>http://emmgro.github.io/portfolio/projects/svweb/</link>
       <pubDate>Mon, 17 Dec 2018 20:40:12 -0700</pubDate>
       
-      <guid>/portfolio/projects/svweb/</guid>
+      <guid>http://emmgro.github.io/portfolio/projects/svweb/</guid>
       <description>Comprarcurso
       Cursocomprado
       Cursoscomprados
@@ -47,10 +47,10 @@
     
     <item>
       <title>colophon</title>
-      <link>/about/colophon/</link>
+      <link>http://emmgro.github.io/about/colophon/</link>
       <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
       
-      <guid>/about/colophon/</guid>
+      <guid>http://emmgro.github.io/about/colophon/</guid>
       <description>This website is a personal homepage.
 The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
 The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
