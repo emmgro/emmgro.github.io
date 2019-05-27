@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Portfolio on Emmanuelle Guerrero - Web Developer, Photographer</title>
-    <link>/portfolio/</link>
-    <description>Recent content in My Portfolio on Emmanuelle Guerrero - Web Developer, Photographer</description>
+    <title>My Portfolio on Emmanuelle Guerrero | Web Developer, Photographer</title>
+    <link>http://emmgro.github.io/portfolio/</link>
+    <description>Recent content in My Portfolio on Emmanuelle Guerrero | Web Developer, Photographer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Dec 2018 06:42:21 -0700</lastBuildDate>
     
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://emmgro.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tuukuul</title>
-      <link>/portfolio/projects/tuukuul/</link>
+      <link>http://emmgro.github.io/portfolio/projects/tuukuul/</link>
       <pubDate>Mon, 17 Dec 2018 21:47:45 -0700</pubDate>
       
-      <guid>/portfolio/projects/tuukuul/</guid>
-      <description>   Chat
+      <guid>http://emmgro.github.io/portfolio/projects/tuukuul/</guid>
+      <description>Tuukuul is an app developed towards team collaboration and to boost productivity to reach clear objectives in a fast paced environment.  Current State of UI
+UI Redesign.-
+    Chat
       Secciones
       Tareas
       Add
       Detalle tarea
-      Nueva tarea
-                             </description>
+      Nueva tarea</description>
     </item>
     
     <item>
       <title>Soluciones Verdes - Online Courses Website</title>
-      <link>/portfolio/projects/svweb/</link>
+      <link>http://emmgro.github.io/portfolio/projects/svweb/</link>
       <pubDate>Mon, 17 Dec 2018 20:40:12 -0700</pubDate>
       
-      <guid>/portfolio/projects/svweb/</guid>
+      <guid>http://emmgro.github.io/portfolio/projects/svweb/</guid>
       <description>Comprarcurso
       Cursocomprado
       Cursoscomprados
